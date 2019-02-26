@@ -4,7 +4,7 @@ public class Shape {
 
   protected final double opacity;
 
-  public Shape(double opacity) {
+  protected Shape(double opacity) {
     this.opacity = opacity;
   }
 
